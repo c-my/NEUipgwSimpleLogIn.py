@@ -1,2 +1,5 @@
 # NEUipgwSimpleLogIn.py
-A script to log in ipgw
+A script to sign in ipgw.
+
+Required libirary: `pyqt5`,`requests`
+
